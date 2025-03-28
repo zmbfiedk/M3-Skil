@@ -4,7 +4,7 @@ using Unity.VisualScripting;
 using UnityEditor;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class bit : MonoBehaviour
 {
     SpriteRenderer spriteRenderer; 
     
